@@ -1,23 +1,5 @@
 # yamamoto_yukihiro
 
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-  <meta charset="UTF-8" />
-  <title>Kaggle コンペまとめページ</title>
-  <style>
-    body { font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 2em; background: #f9f9f9; }
-    h1 { color: #333; }
-    .competition { background: white; padding: 1em; margin-bottom: 1.5em; border-radius: 6px; box-shadow: 0 0 5px #ccc; }
-    .competition h2 { margin-top: 0; }
-    ul { list-style-type: none; padding-left: 0; }
-    li { margin: 0.3em 0; }
-    a { color: #0366d6; text-decoration: none; }
-    a:hover { text-decoration: underline; }
-  </style>
-</head>
-<body>
-  <h1>Kaggle コンペまとめページ</h1>
 
   <div class="competition">
     <h2>Titanic - 生存予測コンペ</h2>
